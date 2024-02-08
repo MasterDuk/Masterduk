@@ -26,14 +26,14 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Currently working in [LLC "PSB Agropromdorstroy"]
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Python/JavaScript/VBA/HTML languages
+*   MySQL, PostgreSQL, SQLite
+*   Django, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   Docker
+*   GitHub/Git
 
 ### My opensource projects
 
