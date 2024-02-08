@@ -1,5 +1,5 @@
-# Hi, I'm Roman 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
+# Hi, I'm Alexey 👋
+Junior Software Engineer with more than 5 years of commertial experience. I have knowledge in backend development on Python.
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 <p align='center'>
@@ -43,7 +43,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
+   <a href="https://github.com/Masterduk/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
    </a>
 </div>
