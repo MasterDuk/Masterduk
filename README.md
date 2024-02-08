@@ -32,7 +32,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Python/JavaScript/VBA/HTML languages
 *   MySQL, PostgreSQL, SQLite
 *   Django, FastAPI, Pandas and so on...
-*   Docker
+*   Docker, DBeaver
 *   GitHub/Git
 *   MS Excel
 
