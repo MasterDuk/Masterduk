@@ -18,12 +18,6 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    📫 How to reach me: <a href='mailto:masterduk@mail.ru'>masterduk@mail.ru</a>
 </p>
 
-<p>Я пишу details open = "HYPER TEXT">HTML</details>.<p>
-<acronim HTML="HYPER TEXT"><p>Я пишу<p></acronim>
-<p>Я пишу abbr title = "HYPER TEXT">HTML</abbr>.<p>
-<p>abbr="HTML:HYPER TEXT"> Я пишу <p>
-<p>Я пишу legend title = "HYPER TEXT">HTML</legend>.<p>
-
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
