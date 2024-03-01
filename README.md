@@ -34,7 +34,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/MasterDuk/Film_bot) - The Telegram bot parses movie titles from the site according to user requests.
+*   [Film_bot](https://github.com/MasterDuk/Film_bot) - The Telegram bot parses movie titles from the site according to user requests.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
