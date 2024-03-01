@@ -32,7 +32,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   GitHub/Git
 *   MS Excel
 
-### My opensource projects
+### My projects
 
 *   [Film_bot](https://github.com/MasterDuk/Film_bot) - The Telegram bot parses movie titles from the site according to user requests.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
