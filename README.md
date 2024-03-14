@@ -27,7 +27,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 ## 🛠 Technical Stack
 *   Python/JavaScript/VBA/HTML languages
 *   MySQL, PostgreSQL, SQLite
-*   Django, FastAPI, Pandas and so on...
+*   Django, Flask, FastAPI, Pandas and so on...
 *   Docker, DBeaver
 *   GitHub/Git
 *   MS Excel
