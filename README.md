@@ -2,9 +2,9 @@
 Software Engineer, i have knowledge in backend development on Python.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&theme=radical&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&theme=radical&count_private=true"/></a>
    <a href="https://github.com/Masterduk/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterduk&layout=compact"/></a>
 </p>
