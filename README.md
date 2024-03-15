@@ -13,6 +13,10 @@ Software Engineer, i have knowledge in backend development on Python.
    <a href="https://www.linkedin.com/in/alexey-gerasimov-a18178114/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+   <a href="https://t.me/masterduk">
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"/>
+   </a>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:masterduk@mail.ru'>masterduk@mail.ru</a>
 </p>
