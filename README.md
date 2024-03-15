@@ -1,6 +1,5 @@
 # Hi, I'm Alexey 👋
-Junior Software Engineer with more than 5 years of commertial experience. I have knowledge in backend development on Python.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Software Engineer, i have knowledge in backend development on Python.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&count_private=true"><img
@@ -19,12 +18,13 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 </p>
 
 ### Key points
-*   member of [Supabase Community](https://github.com/supabase-community) organizations.
-*   Write posts about software development.
-*   Currently working in LLC "PSB Agropromdorstroy"
+*   Experience with third-party libraries and APIs.
+*   Knowledge of modern software development, trends, and the latest technologies
+*   Experience working with remote data via REST, JSON, XML, etc.
+*   Experience with tools such as PyCharm, Visual Studio Code.
 
 ## 🛠 Technical Stack
-*   Python/JavaScript/VBA/HTML languages
+*   Python/JavaScript/VBA/HTML/CSS languages
 *   MySQL, PostgreSQL, SQLite
 *   Django, Flask, FastAPI, Pandas and so on...
 *   Docker, DBeaver
