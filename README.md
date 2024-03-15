@@ -8,8 +8,6 @@ Software Engineer, i have knowledge in backend development on Python.
    <a href="https://github.com/Masterduk/github-readme-stats"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterduk&theme=radical&layout=compact"/></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masterduk&layout=compact&hide=html&theme=radical&count_private=true" alt="Masterduk"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Masterduk&include_all_commits=false&show_icons=true&theme=radical&count_private=true"/>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/alexey-gerasimov-a18178114/">
