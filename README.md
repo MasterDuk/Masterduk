@@ -25,7 +25,7 @@ Software Engineer, i have knowledge in backend development on Python.
 *   Experience with third-party libraries and APIs.
 *   Knowledge of modern software development, trends, and the latest technologies
 *   Experience working with remote data via REST, JSON, XML, etc.
-*   Experience with tools such as PyCharm, Visual Studio Code, Jupiter Lab.
+*   Experience with tools such as PyCharm, Visual Studio Code, Jupyter Lab.
 
 ## 🛠 Technical Stack
 *   Python/JavaScript/VBA/HTML/CSS languages
