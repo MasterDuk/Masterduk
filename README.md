@@ -30,7 +30,8 @@ Software Engineer, i have knowledge in backend development on Python.
 ## 🛠 Technical Stack
 *   Python/JavaScript/VBA/HTML/CSS languages
 *   MySQL, PostgreSQL, SQLite
-*   Django, Flask, FastAPI, Pandas and so on...
+*   Django, Flask, FastAPI, Pandas, SQLAlchemy, pytest and so on...
+*   Redis
 *   Docker, DBeaver
 *   GitHub/Git
 *   MS Excel
