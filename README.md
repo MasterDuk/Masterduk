@@ -29,12 +29,12 @@ Software Engineer, I have knowledge in Python, SQL, Excel and VBA development.
 
 ## 🛠 Technical Stack
 *   Python/JavaScript/VBA/HTML/CSS languages
-*   MySQL, PostgreSQL, SQLite
-*   Django, Flask, FastAPI, Pandas, SQLAlchemy, pytest and so on...
+*   MSSQL, PostgreSQL, Greenplum
+*   Streamlit, Flask, FastAPI, Pandas, SQLAlchemy, pytest and so on...
 *   Redis
 *   Docker, DBeaver
-*   GitHub/Git
-*   MS Excel
+*   GitHub/Gitlab/Git
+*   MS Excel, PowerBI
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Masterduk/github-profile-views-counter">
