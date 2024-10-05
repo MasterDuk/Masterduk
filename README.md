@@ -1,5 +1,5 @@
 # Hi, I'm Alexey 👋
-Software Engineer, I have knowledge in Python, SQL, Excel and VBA development.
+Data Engineer, I have knowledge in Python, SQL, Excel and VBA development.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&theme=radical&count_private=true"><img
