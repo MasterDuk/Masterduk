@@ -25,10 +25,10 @@ Data Engineer, I have knowledge in Python, SQL, Excel and VBA development.
 *   Experience with tools such as PyCharm, Visual Studio Code, Jupyter Lab.
 
 ## 🛠 Technical Stack
-*   Python/JavaScript/VBA/HTML/CSS languages
-*   MSSQL, PostgreSQL, Greenplum
-*   Streamlit, Flask, Numpy, Pandas, SQLAlchemy, pytest and so on...
-*   Hadoop, Airflow, Spark, Hive
+*   Python/SQL/JavaScript/HTML/CSS/VBA languages
+*   PostgreSQL, Greenplum, MSSQL, NOSQL 
+*   Pandas, Streamlit, Flask, Numpy, SQLAlchemy, pytest and so on...
+*   Hadoop, Airflow, Spark, Hive, Superset, Kafka
 *   Docker, DBeaver
 *   GitHub/Gitlab/Git
 *   MS Excel, PowerBI
