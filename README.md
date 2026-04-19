@@ -1,5 +1,5 @@
 # Hi, I'm Alexey 👋
-Data Engineer, I have knowledge in Python, SQL, Excel and VBA development.
+Data Engineer, I have knowledge in Python, SQL, BI, Excel and VBA development.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Masterduk&show_icons=true&theme=radical&count_private=true"><img
@@ -25,13 +25,14 @@ Data Engineer, I have knowledge in Python, SQL, Excel and VBA development.
 *   Experience with tools such as PyCharm, Visual Studio Code, Jupyter Lab.
 
 ## 🛠 Technical Stack
-*   Python/SQL/JavaScript/HTML/CSS/VBA languages
-*   PostgreSQL, Greenplum, MSSQL, NOSQL 
+*   Python/SQL/DAX/JavaScript/VBA languages
+*   PostgreSQL, Greenplum, MSSQL, Clickhouse, S3, NOSQL 
 *   Pandas, Streamlit, Flask, Numpy, SQLAlchemy, pytest and so on...
 *   Hadoop, Airflow, Spark, Hive, Superset, Kafka
 *   Docker, DBeaver
 *   GitHub/Gitlab/Git
 *   MS Excel, PowerBI
+*   ML
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Masterduk/github-profile-views-counter">
